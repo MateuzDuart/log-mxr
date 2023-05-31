@@ -39,3 +39,29 @@ span {
     display: block;
     font-weight: bold;
 }
+
+a::before {
+    content: '';
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 5px;
+    animation: piscar 1.5s infinite;
+}
+
+@keyframes piscar {
+    0% {
+        opacity: 1;
+    }
+
+    30% {
+        opacity: 0;
+
+    }
+    100% {
+        opacity: 1;
+
+    }
+}
