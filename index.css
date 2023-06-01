@@ -17,7 +17,7 @@ body {
 
 .containerDia {
     background-color: rgb(211, 197, 71);
-    min-width: 220px;
+    width: min(400px, 80% );
     min-height: 300px;
     display: flex;
     flex-direction: column;
