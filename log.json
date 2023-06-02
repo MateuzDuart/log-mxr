@@ -12,5 +12,12 @@
         "Horario saida": "18h02",
         "Descrição": "Mais um dia sem muitos avanços, passei o dia estudando uma ferramenta chamda Ghidra que serve para fazer engenharia reversa e descompilar um executavel, mas é algo extremamente dificil e demorado",
         "veja minha tela": "não ativo no momento"
+    },
+    "Dia 2": {
+        "dia da analise": "01/06/2023",
+        "Horario entrada": "13h05",
+        "Horario saida": "",
+        "Descrição": "Em análise",
+        "veja minha tela": "https://us05web.zoom.us/j/85436112387?pwd=c2JiTEJpbEZZWGpSRTRpODhESDY5UT09"
     }
 }
