@@ -14,15 +14,22 @@
         "veja minha tela": "não ativo no momento"
     },
     "Dia 3": {
-        "dia da analise": "01/06/2023",
+        "dia da analise": "06/06/2023",
         "Horario entrada": "13h05",
         "Horario saida": "17h09(05/06/2023)",
         "Descrição": "Análise do mkt e teste do app",
         "veja minha tela": "não ativo no momento"
     },
      "Dia 4": {
-        "dia da analise": "01/06/2023",
+        "dia da analise": "07/06/2023",
         "Horario entrada": "13h02",
+        "Horario saida": "19h??",
+        "Descrição": "Fiz uma análise de todas as partições e um resumo da função de cada uma",
+        "veja minha tela": "não ativo no momento"
+    },
+    "Dia 5": {
+        "dia da analise": "08/06/2023",
+        "Horario entrada": "13h07",
         "Horario saida": "",
         "Descrição": "Em análise",
         "veja minha tela": "zoom inativo"
