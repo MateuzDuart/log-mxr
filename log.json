@@ -58,6 +58,13 @@
     "Dia 9": {
         "dia da analise": "11/07/2023",
         "Horario entrada": "13h00",
+        "Horario saida": "18h36",
+        "Descrição": "Sem muitas descobertas hj foi um dia perdido tentando usar uma função do java no flutter",
+        "veja minha tela": "não ativo no momento"
+    },
+    "Dia 10": {
+        "dia da analise": "12/07/2023",
+        "Horario entrada": "13h03",
         "Horario saida": "",
         "Descrição": "",
         "veja minha tela": "sem link"
