@@ -65,6 +65,20 @@
     "Dia 10": {
         "dia da analise": "12/07/2023",
         "Horario entrada": "13h03",
+        "Horario saida": "??h??",
+        "Descrição": "criei um app e estou tentando usar a função Intent do Java para instalar um apk",
+        "veja minha tela": "não ativo no momento"
+    },
+    "Dia 11": {
+        "dia da analise": "13/07/2023",
+        "Horario entrada": "13h??",
+        "Horario saida": "18h50",
+        "Descrição": "Continuei no erro da função do Intent e precisei parar na metade para criar um app atualizador de bin",
+        "veja minha tela": "não ativo no momento"
+    },
+    "Dia 12": {
+        "dia da analise": "14/07/2023",
+        "Horario entrada": "12h58",
         "Horario saida": "",
         "Descrição": "",
         "veja minha tela": "sem link"
