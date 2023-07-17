@@ -79,8 +79,15 @@
     "Dia 12": {
         "dia da analise": "14/07/2023",
         "Horario entrada": "12h58",
-        "Horario saida": "Eu não consegui fazer a instalação do app com a função Intent do Java, porém iniciei uma nova tentativa com codigos nativos como o pm install",
-        "Descrição": "18h11",
+        "Horario saida": "18h11",
+        "Descrição": "Eu não consegui fazer a instalação do app com a função Intent do Java, porém iniciei uma nova tentativa com codigos nativos como o pm install",
         "veja minha tela": "não ativo no momento"
+    },
+    "Dia 13": {
+        "dia da analise": "17/07/2023",
+        "Horario entrada": "13h03",
+        "Horario saida": "",
+        "Descrição": "em análise",
+        "veja minha tela": "em analise"
     }
 }
