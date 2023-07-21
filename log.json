@@ -86,6 +86,13 @@
     "Dia 13": {
         "dia da analise": "17/07/2023",
         "Horario entrada": "13h03",
+        "Horario saida": "17h54(20/07/2023)",
+        "Descrição": "essa analise durou mais dias porque eu comecei porém parei no meio para fazer um sistema de atualização offline, porém no dia que volttei fiz os teste e a tentativa de usar o pm install não funcionoul, é necessario acesso root para usa-lo",
+        "veja minha tela": "não ativo no momento"
+    },
+    "Dia 14": {
+        "dia da analise": "21/07/2023",
+        "Horario entrada": "13h05",
         "Horario saida": "",
         "Descrição": "em análise",
         "veja minha tela": "em analise"
